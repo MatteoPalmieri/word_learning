@@ -13,7 +13,8 @@
 Il programma ha due modalità:
 - la modalità 1 chiede le parole "facili", contenute nel file words.txt
 - la modalità 2 chiede le parole difficili contenute nel file hard_words.txt, inizialmente vuoto
-se nella modalità 1 si sbaglia una parola, il programma dà la risposta giusta e chiede se si vuole mettere la parola tra quelle difficili.
+
+Se nella modalità 1 si sbaglia una parola, il programma dà la risposta giusta e chiede se si vuole mettere la parola tra quelle difficili.
 Viceversa, nella modalità 2, se si fa giusta una parola, il programma chiede se si vuole spostare la parola tra quelle facili
 
 # Come aggiungere parole ai file?
