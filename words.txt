@@ -1,3 +1,6 @@
+incontrare,meet met met/
+pagare,pay paid paid/
+mettere,put put put/
 cantare,sing sang sung/
 cadere,fall fell fallen/
 sentirsi,feel felt felt/
