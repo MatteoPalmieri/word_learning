@@ -1,0 +1,84 @@
+cantare,sing sang sung/
+cadere,fall fell fallen/
+sentirsi,feel felt felt/
+combattere,fight fought fought/
+trovare,find found found/
+volare,fly flew flown/
+dimenticare,forget forgot forgotten/
+perdonare,forgive forgave forgiven/
+dare,give gave given/
+andare,go went gone/
+crescere,grow grew grown/
+avere,have had had/
+correre,run ran run/
+dire,say said said/
+vedere,see saw seen/
+mandare spedire,send sent sent/
+cominciare,begin began begun/
+diventare,become became become/
+dormire,sleep slept slept/
+parlare,speak spoke spoken/
+spendere denaro trascorrere tempo,spend spent spent/
+nuotare,swim swam swum/
+insegnare,teach taught taught/
+dire,tell told told/
+scrivere,write wrote written/
+bruciare,burn burnt burnt/
+soffiare,blow blew blown/
+rompere,break broke broken/
+costruire,build built built/
+comprare,buy bought bought/
+scegliere,choose chose chosen/
+venire,come came come/
+costare,cost cost cost/
+pensare,think thought thought/
+capire,understand understood understood/
+indossare,wear wore worn/
+vincere,win won won/
+fare,do did done/
+bere,drink drank drunk/
+mangiare,eat ate eaten/
+sentire (udire),hear heard heard/
+farsi male,hurt hurt hurt/
+conoscere sapere,know knew known/
+apparecchiare mettere un oggetto in posizione orizzontale,lay laid laid/
+lasciare partire,leave left left/
+fare preparare,make made made/
+tenere in mano,hold held held/
+tenere,keep kept kept/
+affondare,sink sank sunk/
+sorgere alzarsi,rise rose risen/
+sedersi,sit sat sat/
+prendere portare da vicino a lontano,take took taken/
+portare (da lontano a vicino),bring brought brought/
+disegnare,draw drew drawn/
+tagliare,cut cut cut/
+perdere,lose lost lost/
+scavare,dig dug dug/
+regolare fissare,set set set/
+rubare,steal stole stolen/
+svegliare svegliarsi,wake woke woken/
+lasciare che qualcuno faccia qualcosa,let let let/
+stare sdraiati,lie lay lain/
+accendere,light lit lit/
+fare vedere mostrare,show showed shown/
+battere,beat beat beaten/
+piangere,weep wept wept/
+scuotere,shake shook shaken/
+nascondere nascondersi,hide hid hidden/
+imprestare,lend lent lent/
+chiudere,shut shut shut/
+scivolare,slide slid slid/
+buttare lanciare,throw threw thrown/
+brillare,shine shone shone/
+vendere,sell sold sold/
+mordere,bite bit bitten/
+stare in piedi,stand stood stood/
+guidare,drive drove driven/
+arrivare ottenere,get got got/
+prendere afferrare,catch caught caught/
+piegare,bend bent bent/
+scommettere,bet bet bet/
+colpire,hit hit hit/
+strappare,tear tore torn/
+sparare,shoot shot shot
