@@ -1,18 +1,23 @@
 /* Fonts from Google Fonts - more at https://fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Devonshire:400,700');
 
 body {
-  background-color: white;
+  background-color: #32d9ff;
   font-family: "Open Sans", sans-serif;
   padding: 5px 25px;
   font-size: 18px;
-  margin: 100px;
+  margin: 0px 50px 0px 50px;
   color: #444;
 }
 
 h1 {
-  font-family: "Merriweather", serif;
-  font-size: 32px;
+  font-family: "Devonshire", serif;
+  font-size: 70px;
 }
 
+p {
+    padding:5px 25px;
+    margin: 5px 25px;
+}
