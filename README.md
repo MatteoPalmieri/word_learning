@@ -2,7 +2,7 @@
 
 ## What is word learning
 
-Word learning is a simple program for ones who have some difficulties when they have to learn words from another language. You simply tell the words you want to learn and the program will ask them you, so that your are obliged to right them down in the proper way.
+Word learning is a simple program for ones who have some difficulties when they have to learn words from another language. You simply tell the words you want to learn and the program will ask them you, so that your are obliged to write them down in the proper way.
 
 Your words are stored in two databases (words.db and hard.db). At the beginning hard.db is empty and you put the words in words.db. When you make a mistake, the programs adds your word in hard.db, so that you can easily study more difficult words. When your are in the hard mode and you write a word right, you can delete it from hard.db.
 
