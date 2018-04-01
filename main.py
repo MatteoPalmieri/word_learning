@@ -9,6 +9,10 @@ connection_hard = sqlite3.connect("hard.db")
 cursor_hard = connection_hard.cursor()
 
 def list_options():
+    """
+    this functions prints the options for the user
+    :return:
+    """
     print("options:")
     print("    0. exit the program")
     print("    1. insert words")
@@ -29,7 +33,11 @@ while choice != 0:
     elif choice == 1:
         insert_words(cursor_easy, cursor_hard, connection_easy, connection_hard)
     elif choice == 2:
-        list_tables(cursor_easy)
+        difficulty = input("easy or hard? ")
+        if difficulty == "easy":
+            list_tables(cursor_easy)
+        elif difficulty == "hard":
+            list_tables(cursor_hard)
     elif choice == 3:
         table = input("choose a table: ")
         difficulty = input("easy or hard? ")
