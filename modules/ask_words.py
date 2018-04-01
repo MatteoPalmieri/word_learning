@@ -1,4 +1,4 @@
-from database_functions import *
+from .database_functions import *
 
 def ask_easy_words(topic,cursor_easy,cursor_hard, connection_easy, connection_hard):
     words_list = cursor_easy.execute(f'''select * from {topic}''')

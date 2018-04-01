@@ -1,4 +1,4 @@
-from database_functions import *
+from .database_functions import *
 
 def insert_words(cursor_easy, cursor_hard, connection_easy, connection_hard):
     topic = input("topic > ")

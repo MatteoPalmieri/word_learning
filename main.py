@@ -1,5 +1,6 @@
 from modules.insert_words import *
 from modules.ask_words import *
+from modules.database_functions import *
 
 connection_easy = sqlite3.connect("words.db")
 cursor_easy = connection_easy.cursor()
